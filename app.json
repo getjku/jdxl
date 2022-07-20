@@ -1,6 +1,6 @@
 {
-  "name": "快速部署demo",
-  "description": "Deploy demo.",
+  "name": "dfe",
+  "description": "ferf",
   "keywords": ["V", "X"],
   "env": {
     "Site": {
